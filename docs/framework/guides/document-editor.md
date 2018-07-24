@@ -128,7 +128,7 @@ The editable should look like a sheet of paper, centered in its scrollable conta
 	overflow-y: scroll;
 }
 
-.document-editor__editable-container .ck-editor__editable {
+.document-editor__editable-container .document-editor__editable.ck-editor__editable {
 	/* Set the dimensions of the "page". */
 	width: 15.8cm;
 	min-height: 21cm;
